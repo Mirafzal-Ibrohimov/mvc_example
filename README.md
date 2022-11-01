@@ -1,1 +1,1 @@
-# mvc_example
+# MVC_PHP_architecture
